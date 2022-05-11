@@ -3,14 +3,14 @@
 My name is Daniel Pedersen and I'm a fullstack developer specializing in frontend development and API's. I'm from Denmark and currently working at Admill. You can find me on [<img alt="Daniel Pedersen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin].
 
 ## Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=f5d027)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=f5d027)
-![](https://img.shields.io/badge/Code-.Net-informational?style=flat&logo=dotnet&logoColor=white&color=f5d027)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f5d027)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=f5d027)
-![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=nextdotjs&logoColor=white&color=f5d027)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=f5d027)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azuredevops&logoColor=white&color=f5d027)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=f7d952)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=f7d952)
+![](https://img.shields.io/badge/Code-.Net-informational?style=flat&logo=dotnet&logoColor=white&color=f7d952)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7d952)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=f7d952)
+![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=nextdotjs&logoColor=white&color=f7d952)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=f7d952)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azuredevops&logoColor=white&color=f7d952)
 
 ## &#x270d; Blog & Writing
 
@@ -26,8 +26,8 @@ Apart from coding, I also maintain a blog where I talk about UI/UX and what is g
 
 ## Connect with me:
 
-![](https://img.shields.io/badge/Connect-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=f5d027)
-![](https://img.shields.io/badge/Connect-Website-informational?style=flat&logo=globus&logoColor=white&color=f5d027)
+![](https://img.shields.io/badge/Connect-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=f7d952)
+![](https://img.shields.io/badge/Connect-Website-informational?style=flat&logo=globus&logoColor=white&color=f7d952)
 
 
 <br />
