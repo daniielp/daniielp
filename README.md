@@ -26,8 +26,8 @@ Apart from coding, I also maintain a blog where I talk about UI/UX and what is g
 
 ## Connect with me:
 
-![](https://img.shields.io/badge/Connect-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Connect-Website-informational?style=flat&logo=globus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Connect-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=f5d027)
+![](https://img.shields.io/badge/Connect-Website-informational?style=flat&logo=globus&logoColor=white&color=f5d027)
 
 
 <br />
