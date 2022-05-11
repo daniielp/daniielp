@@ -1,7 +1,7 @@
-### Hi there, I'm Daniel - aka [shorcy][website] 👋
+### Hi there, I'm Daniel - aka [daniiel][website] 👋
 
 ## I'm a Frontend Developer!
-- 🥅 2020 Goals: Learn C# and .NET core
+- 🥅 2022 Goals: Learn C# and .NET core
 - ⚡ Fun fact: In school I was know as the shorts king and that is where the name shorcy comes from.
 
 ### Connect with me:
