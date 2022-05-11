@@ -20,7 +20,7 @@ Apart from coding, I also maintain a blog where I talk about UI/UX and what is g
 <a href="https://github.com/Shorcy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shorcy&hide=java,html,tex&title_color=ffffff&text_color=fefefe&icon_color=f5d027&bg_color=272c3a&langs_count=3" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/Shorcy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shorcy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=fefefe&icon_color=f5d027&bg_color=272c3a" alt="Daniel Pedersen's GitHub Stats" />
 </a>
 
