@@ -12,9 +12,6 @@ My name is Daniel Pedersen and I'm a fullstack developer specializing in fronten
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=f7d952)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azuredevops&logoColor=white&color=f7d952)
 
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog where I talk about UI/UX and what is going on inside frontend development - you can find my articles on blog [destroyallweb.com](https://destroyallweb.com).
 
 ## GitHub Stats
 <a href="https://github.com/Shorcy">
