@@ -1,6 +1,6 @@
 # Hi there, I'm Daniel - aka [daniiel][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Daniel Pedersen and I'm a fullstack developer specializing in frontend development and API's. I'm from Denmark and currently working at Admill. You can find me on [<img alt="Daniel Pedersen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin].
+My name is Daniel Pedersen and I'm a fullstack developer specializing in frontend development and API's. I'm from Denmark. You can find me on [<img alt="Daniel Pedersen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin].
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=f7d952)
