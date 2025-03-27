@@ -14,10 +14,10 @@ My name is Daniel Pedersen and I'm a fullstack developer specializing in fronten
 
 
 ## GitHub Stats
-<a href="https://github.com/Shorcy">
+<a href="https://github.com/daniielp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniielp&hide=java,html,tex&title_color=ffffff&text_color=fefefe&icon_color=f5d027&bg_color=272c3a&langs_count=3" />
 </a>
-<a href="https://github.com/Shorcy">
+<a href="https://github.com/daniielp">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniielp&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=fefefe&icon_color=f5d027&bg_color=272c3a" alt="Daniel Pedersen's GitHub Stats" />
 </a>
 
